@@ -2,7 +2,7 @@
 
 Hi,
 
-My name is Ana and I am a passionate about exploring data with a research minded perspective acquiered thorugh many years of research in economics.
+My name is Ana and I am passionate about exploring data with a research minded perspective acquiered thorugh many years of research in economics.
 
 Programs that I use in my projects:
 
