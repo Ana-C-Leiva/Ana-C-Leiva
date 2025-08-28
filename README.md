@@ -2,9 +2,9 @@
 
 Hi,
 
-My name is Ana and I am passionate about exploring data with a research minded perspective acquiered thorugh many years of research in economics.
+I am en economist passionate about exploring data with a research minded perspective.
 
-Programs that I use in my projects:
+Here is a sample of the programs i use in my projects:
 
 <img width="50" height="50" alt="portada-GitHub" src="https://github.com/user-attachments/assets/6d5559f4-4380-4a49-b265-e11e00bc6ecd" />
 <img width="50" height="50" alt="notion" src="https://github.com/user-attachments/assets/019e24c4-580d-4e32-baf2-cc399c42bb9e" />
